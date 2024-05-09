@@ -29,7 +29,7 @@ EXAMPLES
 - [Acesso - Click  aqui](https://mkt360.gnssys.com/)
 
 
-docker login --username mb3mx --password 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 ghcr.io
+docker login --username mb3mx --password TOKEN ghcr.io
 
 docker build -t  ghcr.io/mb3mx/mkt360/tour-virtual360:v1 .
 
